@@ -1,12 +1,12 @@
 import React from "react";
 import "../styles/Features.css";
 import { Carousel } from "react-bootstrap";
-import { Swiper, SwiperSlide } from "swiper/react";
+// import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
-import { Navigation, Pagination } from "swiper";
+// import { Navigation, Pagination } from "swiper";
 const Features = () => (
   <section className="features" id="features">
     {/* <h2>Our Features</h2> */}
